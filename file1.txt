@@ -2,6 +2,8 @@ Hello World!!!
 
 welcome to git...
 
-changed : login feature
+changed : Implemented login feature
 
-change : logout feature
+change : Implemented logout feature
+
+change : to fix the bug1
